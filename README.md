@@ -1,7 +1,3 @@
-Based on the gathered information, here is a draft README file for the repository `GLRandula/SpringBoot-MongoDB-CRUD-API`:
-
----
-
 # SpringBoot-MongoDB-CRUD-API
 
 A simple CRUD API built with Spring Boot and MongoDB.
