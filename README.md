@@ -2,15 +2,6 @@
 
 A simple CRUD API built with Spring Boot and MongoDB.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 This project is a Spring Boot application that provides a CRUD (Create, Read, Update, Delete) API for managing student records stored in a MongoDB database.
